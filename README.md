@@ -1,5 +1,5 @@
 ### Hi,I'm abir 👋
-
+![Twitter Follow](https://img.shields.io/twitter/follow/abir0ua?color=%23E4405F&logo=instagram&style=for-the-badge)
 <!--
 **abiroua20/abiroua20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
