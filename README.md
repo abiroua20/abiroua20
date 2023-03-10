@@ -4,7 +4,7 @@ ________________________________________________________________________________
 . 🔭 I’m currently self-taught software engineer 👩‍💻 
 
 ### 📪 How to reach me :
-<img height="32" width="32" src="https://cdn.simpleicons.org/twitter" /> <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/twitter" />  <img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F" /> <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
 
 
 
