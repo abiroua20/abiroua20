@@ -1,5 +1,5 @@
 ### Hi,I'm abir 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abiroua20&theme=dark)](https://git.io/streak-stats)
+
 _________________________________________________________________________________________________________________________________________________________
 
 . 🔭 I’m currently self-taught software engineer 👩‍💻 
